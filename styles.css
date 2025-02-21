@@ -4,11 +4,12 @@ h1 {
     color: rgb(0, 0, 0);
     font-size: 75px;
 }
-p {
-    font-size: 50px;
+#name p {
+    font-size: 2rem;
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
     margin: auto;
+    padding:15px 45px;
 }
 nav{
     text-align: center;
@@ -29,5 +30,35 @@ nav{
     color: coral;
     text-decoration: underline;
     padding: 1rem;
+    background-color: aqua;
+}
+#education ol {
+    font-size: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin: auto;
+    padding: 25px 45px
+}
+h2, #eductaion h2{
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    margin:auto;
+    padding: 30px 45px;
+}
+#contact {
+    font-size:2rem;
+}
+button {
+    background-color: chocolate;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor:pointer;
+}
+button:hover {
+    background-color: darkcyan;
+}
+body{
     background-color: aqua;
 }
