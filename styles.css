@@ -55,10 +55,11 @@ button {
     padding: 10px 20px;
     border-radius: 5px;
     cursor:pointer;
+    border-radius: 3rem;
 }
 button:hover {
     background-color: darkcyan;
 }
 body{
-    background-color: aqua;
+    background-color: green;
 }
