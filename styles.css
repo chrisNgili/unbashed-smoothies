@@ -15,7 +15,7 @@ nav{
     text-align: center;
     font-size: 45px;
     flex: auto;
-    background-color: chocolate;
+    background-color: #000;
 }
 .about {
     margin-right: 50px;
@@ -61,5 +61,8 @@ button:hover {
     background-color: darkcyan;
 }
 body{
-    background-color: green;
+    background-color: #000;
+}
+* p, h1 , h2, ol, ul {
+    color: #fff;
 }
