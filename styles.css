@@ -66,3 +66,7 @@ body{
 * p, h1 , h2, ol, ul {
     color: #fff;
 }
+footer {
+    text-align: center;
+    font-size: 2rem;
+}
